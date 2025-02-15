@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Frau Ettalibi <br/><a href="https://github.com/joshmadakor1">Informatik Studentin in Giessen </a></h1>
 
-<!--
-**Touria-Ettalibi/Touria-Ettalibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projekte
 
-Here are some ideas to get you started:
+### Webentwicklung & Frontend-Projekte
+- **To-Do-Listen-App (HTML & CSS)**
+  - Entwicklung einer einfachen, aber funktionalen To-Do-Listen-Anwendung zur Verwaltung von Aufgaben mit HTML, CSS und JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Netzwerkverkehrsanalyse & Sicherheit
+- **Analyse von Netzwerkverkehr mit Wireshark**
+  - Untersuchung und Analyse von Netzwerkpaketen mit Wireshark zur Identifizierung von Sicherheitsrisiken und Optimierung des Netzwerkmanagements.
+
+### CRM-Systementwicklung
+- **CRM-Projekt zur Verwaltung von Kundenanfragen**
+  - Entwicklung eines **Customer-Relationship-Management (CRM)-Systems**, das Interaktionen und Kundenanfragen effizient verwaltet, um Geschäftsprozesse zu optimieren.
+
+### Single-Page-Applications (SPA) & JavaScript-Technologien
+- **SPA-Entwicklung mit Ajax, JSON und DOM-Manipulation**
+  - Umsetzung einer interaktiven Webanwendung mit **JavaScript, Ajax und JSON**, die dynamische Inhalte lädt und DOM-Manipulationen nutzt.
+<h2> Zertifikat </h2>
+<a href="https://github.com/joshmadakor1">MSC Office </a>
+<br><a href="https://github.com/joshmadakor1">IT Fundementals </a>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
