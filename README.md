@@ -19,7 +19,7 @@
 
 ### Single-Page-Applications (SPA) & JavaScript-Technologien
 - **SPA-Entwicklung mit Ajax, JSON und DOM-Manipulation**
-  -  [Webanwendung](https://github.com/joshmadakor1/AD_PS)
+  -  [Webanwendung]([https://github.com/Touria-Ettalibi/Webanwendung])
   - <a href="https://github.com/joshmadakor1">den kommentierte Code </a>
 <h2> Zertifikat </h2>
 <a href="https://github.com/joshmadakor1">MSC Office </a>
