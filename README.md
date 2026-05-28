@@ -26,7 +26,4 @@
 <br><a href="https://github.com/joshmadakor1">IT Fundementals </a>
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/touria-ettalibi-babb25317/)" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/joshmadakor
+<a href="https://www.linkedin.com/in/touria-ettalibi-babb25317/"></a>
