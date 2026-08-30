@@ -1,4 +1,4 @@
-<h1>Frau Ettalibi <br/><a href="https://github.com/joshmadakor1">Informatik Studentin in Giessen </a></h1>
+<h1>Frau Touria Ettalibi <br/><a href="https://github.com/Touria-Ettalibi">Informatik Studentin in Heuchelheim </a></h1>
 
 ## Projekte
 
@@ -22,8 +22,8 @@
   -  [Webanwendung](https://github.com/Touria-Ettalibi/Webanwendung)
   - <a href="https://github.com/joshmadakor1">den kommentierte Code </a>
 <h2> Zertifikat </h2>
-<a href="https://github.com/joshmadakor1">MSC Office </a>
-<br><a href="https://github.com/joshmadakor1">IT Fundementals </a>
+<a href="--">MSC Office </a>
+<br><a href="---">IT Fundementals </a>
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/touria-ettalibi-babb25317/">link</a>
